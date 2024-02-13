@@ -3,7 +3,7 @@
 
 > skills
 
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![REACT]([https://img.shields.io](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)/badge/-VUE-blue?style=flat-circle&logo=VUE) ![TailwindCSS](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![REACT]([https://img.shields.io](https://img.shields.io/badge/-REACT-blue?style=flat-circle&logo=REACT)/badge/-REACT-blue?style=flat-circle&logo=REACT) ![TailwindCSS](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
 
 - 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
 
